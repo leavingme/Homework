@@ -1,5 +1,10 @@
 .DS_Store
+*.pth
 hw02/TIMIT/
-hw02/timit_11/
 hw02/TIMIT.zip
+hw02/timit_11/
 hw02/timit_11_v2.zip
+hw03/food/
+hw03/food-11/
+hw03/food-11.zip
+
